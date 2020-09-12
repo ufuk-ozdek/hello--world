@@ -183,7 +183,7 @@ for num in nums:
     print(num)
 print()
 q = 0
-# while = olduğu zaman
+
 while q < 10 :
     q +=1
     print(q)
